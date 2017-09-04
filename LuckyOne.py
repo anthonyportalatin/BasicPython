@@ -6,7 +6,7 @@ answer = input("Your answer: ")
 if (answer=="a"):
     print("You will meet a beautiful stranger!")
 elif (answer=="b"):
-    print("You will meet a fateful encounter, beware...")
+    print("You will have a fateful encounter, beware...")
 elif (answer=="c"):
     print("You will get a reward from your mom!")
 elif (answer=="d"):
